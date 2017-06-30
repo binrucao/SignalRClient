@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{07C6E524-3CF9-46AC-B1A0-8DFBCB734B0F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SignalRClient/ViewController.cs">
+    <Files>
+      <File FileName="SignalRClient/ViewController.cs" Line="28" Column="4" />
+      <File FileName="SignalRClient/Client.cs" Line="37" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../Desktop/MS-PROJECT/Binru_AR/Binru_OpenGL/binruGLViewController.cs" line="11" offsetX="310" offsetY="160" expression="program" liveUpdate="False" />
+    <Watch file="../../../Desktop/MS-PROJECT/IndoorNavigationProject1/IndoorNavigationProject1/NavigationViewController.cs" line="119" offsetX="453" offsetY="1889" expression="edges" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.ItemProperties.SignalRClient PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.E6278CBC-6767-492F-B5B6-11A663B20CB7" />
+  <MultiItemStartupConfigurations />
+</Properties>

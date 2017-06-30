@@ -1,0 +1,11 @@
+/Users/binrucao/Documents/Xamarin/SignalRClient/SignalRClient/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/binrucao/Documents/Xamarin/SignalRClient/SignalRClient/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/ibtool/_BundleResourceWithLogicalName.items
+/Users/binrucao/Documents/Xamarin/SignalRClient/SignalRClient/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/actool/_PartialAppManifest.items
+/Users/binrucao/Documents/Xamarin/SignalRClient/SignalRClient/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/actool/_BundleResourceWithLogicalName.items
+/Users/binrucao/Documents/Xamarin/SignalRClient/SignalRClient/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/optimized/
+/Users/binrucao/Documents/Xamarin/SignalRClient/SignalRClient/bin/iPhoneSimulator/Debug/SignalRClient.pdb
+/Users/binrucao/Documents/Xamarin/SignalRClient/SignalRClient/bin/iPhoneSimulator/Debug/SignalRClient.exe
+/Users/binrucao/Documents/Xamarin/SignalRClient/SignalRClient/obj/iPhoneSimulator/Debug/SignalRClient.exe
+/Users/binrucao/Documents/Xamarin/SignalRClient/SignalRClient/obj/iPhoneSimulator/Debug/SignalRClient.pdb
+/Users/binrucao/Documents/Xamarin/SignalRClient/SignalRClient/bin/iPhoneSimulator/Debug/Newtonsoft.Json.dll
+/Users/binrucao/Documents/Xamarin/SignalRClient/SignalRClient/bin/iPhoneSimulator/Debug/Microsoft.AspNet.SignalR.Client.dll
